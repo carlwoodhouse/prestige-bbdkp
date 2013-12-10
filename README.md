@@ -1,8 +1,11 @@
+prestige-bbdkp
+==============
+phpbb/bbdkp theme based on [proBoot](http://shibulijack.github.com/proBoot/) for the [Prestige](http://www.prestige-swc.com) guild on Steamwheedle Cartel
+
 proBoot
 =======
 
 phpBB3 theme based on [Bootstrap](http://twitter.github.com/bootstrap/) framework.
-
 **Base style:** proSilver
 
 **Style Version:** 2.0
